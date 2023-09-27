@@ -9,7 +9,7 @@
 		<div class="mb-8 flex flex-col-reverse sm:grid sm:grid-cols-12">
 			<div class="col-span-12 mt-12 sm:mt-0 sm:mb-6 lg:col-span-4 lg:mb-0">
 				<a title="Crescent - Illuminating the future of software development" href="/">
-					<span class="text-3xl font-bold tracking-wide">🌘 Crescent</span>
+					<span class="text-3xl font-bold tracking-wide">🌙 Crescent</span>
 				</a>
 				<ul class="mx-0 mt-3 flex list-none">
 					<li class="mr-5">

@@ -26,7 +26,7 @@
 						class="transition duration-100 block rounded-md py-1 px-2 focus:outline-none md:-ml-2 focus:border-b"
 						href="/"
 					>
-						<span class="text-xl leading-6 font-bold tracking-wide">🌘 Crescent</span>
+						<span class="text-xl leading-6 font-bold tracking-wide">🌙 Crescent</span>
 					</a>
 				</div>
 				<div class="hidden flex-1 md:ml-4 lg:block">
